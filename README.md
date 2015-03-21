@@ -42,9 +42,9 @@ of this script:
 ### Output:
 
 run_analysis.R generates two files into working directory. They are:
-* std_mean_data.txt
-* tidy_mean_data.txt
+* std_mean_data.txt - this file is an output of a step 4 described above
+* tidy_mean_data.txt - this file is an output of a step 5 describe above
 
-see codebook.md for description of the files
+see codebook.md for more detailed description of the files
 
 
