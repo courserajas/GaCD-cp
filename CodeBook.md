@@ -1,0 +1,5 @@
+# Codebook
+
+## Introduction
+
+## Variables
