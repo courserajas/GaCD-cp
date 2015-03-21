@@ -13,7 +13,7 @@ Script: `run_analysis.R`
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### Input:
-This script takes following files as an input. Files are read automatically i.e. there is no need to specify them separately but ensure that they are in working directory. See `README.txt` of belowmentioned zip file for description of each file
+This script takes following files as an input. Files are read automatically i.e. there is no need to specify them separately but ensure that they are in working directory. See `README.txt` of below mentioned zip file for description of each file
 
 * `X_test.txt`
 * `y_test.txt`
