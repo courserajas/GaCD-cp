@@ -122,7 +122,8 @@ for ( subject in 1:30 ) {
   }
 }
 
+# set column names for tidydata
 colnames(tidydata) <- colnames(data)
 
-# Store data into file
+# store data into file
 write.table(data, "tidy_mean_data.txt", quote=FALSE, row.names=FALSE)
