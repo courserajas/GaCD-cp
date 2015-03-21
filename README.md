@@ -24,10 +24,7 @@ This script takes following files as an input. Files are read automatically i.e.
 * features.txt
 * activity_labels.txt
 
-### Output:
-
-
-Input data for the script can be aquired from here:
+Input data for the script can be acquired from here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 After extracting the zip file, place following files into working directory
@@ -41,3 +38,13 @@ of this script:
 * subject_train.txt
 * features.txt
 * activity_labels.txt
+
+### Output:
+
+run_analysis.R generates two files into working directory. They are:
+* std_mean_data.txt
+* tidy_mean_data.txt
+
+see codebook.md for description of the files
+
+
